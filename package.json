@@ -1,6 +1,7 @@
 {
-  "name": "etapa-3-analytics-dashboard-compulibre",
-  "version": "0.1.0",
+  "name": "compulibre-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard analítico consolidado para el marketplace CompuLibre con Next.js, Clerk y Recharts",
   "private": true,
   "scripts": {
     "dev": "next dev",
